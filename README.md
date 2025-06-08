@@ -3,7 +3,7 @@
 ## Rapport du projet
 
 ### Présentation
-Cette application web permet la gestion des patients en utilisant les technologies Spring Boot 3.2, Spring MVC, Thymeleaf et Spring Data JPA. Elle a été réalisée par **Maane Aimane** en s’inspirant d’un projet pédagogique open-source.
+Cette application web permet la gestion des patients en utilisant les technologies Spring Boot 3.2, Spring MVC, Thymeleaf et Spring Data JPA. Elle a été réalisée par **Maane Aimane** .
 
 ### Fonctionnalités principales
 - **Affichage** : Liste paginée des patients.
@@ -41,4 +41,4 @@ Cette application web permet la gestion des patients en utilisant les technologi
 - Tests unitaires et d’intégration
 
 ---
-{{ ... }}
+
